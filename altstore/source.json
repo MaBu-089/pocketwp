@@ -3,6 +3,7 @@
   "subtitle": "PocketWP & DualFile Commander",
   "website": "https://mabu-089.github.io/pocketwp/",
   "tintColor": "#F54F32",
+  "fediUsername": "mabumu",
   "apps": [
     {
       "name": "PocketWP",
