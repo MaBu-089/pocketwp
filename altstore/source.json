@@ -1,0 +1,73 @@
+{
+  "name": "Mario Buchholz — Apps",
+  "subtitle": "PocketWP & DualFile Commander",
+  "website": "https://mabu-089.github.io/pocketwp/",
+  "tintColor": "#F54F32",
+  "apps": [
+    {
+      "name": "PocketWP",
+      "bundleIdentifier": "de.mirac.wppocketserver",
+      "marketplaceID": "REPLACE_WITH_APPSTORECONNECT_APPLE_ID_POCKETWP",
+      "developerName": "Mario Buchholz",
+      "subtitle": "A complete WordPress that runs fully offline",
+      "category": "developer",
+      "localizedDescription": "PocketWP runs a complete WordPress site fully offline – right on your iPhone or iPad. No hosting, no server, no internet connection required. The app bundles WordPress with a real PHP runtime (WordPress Playground, PHP compiled to WebAssembly), so everything runs locally inside the app.\n\nEverything you create – pages, posts, settings, media, plugins and themes – is saved automatically to the app's private storage and restored the next time you open it.\n\nFEATURES\n• A real, full WordPress – the admin dashboard, block editor, themes and plugins you already know\n• 100% offline: works in airplane mode, on the train, anywhere\n• Automatic local backup and restore of your content\n• Install your own plugins and themes from a ZIP file\n• Upload media directly from your device\n• Privacy first: no account, no ads, no tracking, no analytics\n\nIdeal for learning WordPress, prototyping a site, drafting content on the go, or testing plugins and themes in a safe, sandboxed environment.\n\nNote: WordPress and WordPress Playground are open-source projects of the WordPress community. PocketWP is an independent app and is not affiliated with or endorsed by the WordPress Foundation or Automattic.",
+      "iconURL": "https://mabu-089.github.io/pocketwp/altstore/pocketwp/icon.png",
+      "screenshots": [
+        "https://mabu-089.github.io/pocketwp/altstore/pocketwp/ss01.png",
+        "https://mabu-089.github.io/pocketwp/altstore/pocketwp/ss02.png",
+        "https://mabu-089.github.io/pocketwp/altstore/pocketwp/ss03.png",
+        "https://mabu-089.github.io/pocketwp/altstore/pocketwp/ss04.png",
+        "https://mabu-089.github.io/pocketwp/altstore/pocketwp/ss05.png",
+        "https://mabu-089.github.io/pocketwp/altstore/pocketwp/ss06.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "16",
+          "date": "2026-08-24",
+          "downloadURL": "REPLACE_WITH_HOSTED_ADP_MANIFEST_URL",
+          "size": 0,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "DualFile Commander",
+      "bundleIdentifier": "de.mariobuchholz.DualFileCommander",
+      "marketplaceID": "REPLACE_WITH_APPSTORECONNECT_APPLE_ID_DUALFILE",
+      "developerName": "Mario Buchholz",
+      "subtitle": "REPLACE_WITH_ONE_SENTENCE_SUBTITLE",
+      "category": "utilities",
+      "localizedDescription": "REPLACE_WITH_FULL_DESCRIPTION",
+      "iconURL": "https://mabu-089.github.io/pocketwp/altstore/dualfile/icon.png",
+      "screenshots": [
+        "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss01.png",
+        "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss02.png",
+        "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss03.png",
+        "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss04.png",
+        "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss05.png",
+        "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss06.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "REPLACE_WITH_NOTARIZED_BUILD_NUMBER",
+          "date": "REPLACE_WITH_RELEASE_DATE_YYYY-MM-DD",
+          "downloadURL": "REPLACE_WITH_HOSTED_ADP_MANIFEST_URL",
+          "size": 0,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
