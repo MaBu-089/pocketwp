@@ -41,9 +41,9 @@
       "bundleIdentifier": "de.mariobuchholz.DualFileCommander",
       "marketplaceID": "6784957118",
       "developerName": "Mario Buchholz",
-      "subtitle": "A dual-pane file manager for iPhone and iPad",
+      "subtitle": "Dual-pane file manager",
       "category": "utilities",
-      "localizedDescription": "DualFile Commander is a classic two-pane file manager for iPhone and iPad. Browse two folders side by side and copy or move files between them in a single tap – the fast, no-nonsense workflow known from desktop file commanders, now native on iOS.\n\nFEATURES\n• Two independent panels, each with its own folder view\n• Copy or move files and folders from one panel to the other\n• Create new folders, rename and delete\n• Multi-select with \"Select all\" / \"Deselect\"\n• Clean, native iOS/iPadOS interface\n• Privacy first: no account, no ads, no tracking\n\nIdeal for organising your files quickly with a familiar dual-pane layout.",
+      "localizedDescription": "DualFile Commander is a clean two-pane file manager for iPhone and iPad. Browse two folders side by side and copy, move, rename, delete or preview your files – the fast dual-pane workflow known from desktop file commanders, now native on iOS.\n\nIt works through the standard iOS Files integration, so you can organise files on your device as well as on connected locations such as NAS or servers.\n\nFEATURES\n• Two independent panels, each with its own folder\n• Copy or move files and folders from one panel to the other\n• Create folders, rename and delete (with confirmation)\n• Multi-select with \"Select all\" / \"Deselect\"\n• Quick Look preview – just tap a file\n• Access on-device folders and connected NAS/server locations via the iOS Files picker\n• Resume at last location\n• Clean, native interface in English and German\n• Privacy first: no account, no ads, no tracking, and no network requests of its own\n\nIdeal for organising your files quickly with a familiar dual-pane layout.",
       "iconURL": "https://mabu-089.github.io/pocketwp/altstore/dualfile/icon.png",
       "screenshots": [
         "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss01.png",
