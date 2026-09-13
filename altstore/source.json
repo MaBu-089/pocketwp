@@ -7,7 +7,7 @@
     {
       "name": "PocketWP",
       "bundleIdentifier": "de.mirac.wppocketserver",
-      "marketplaceID": "REPLACE_WITH_APPSTORECONNECT_APPLE_ID_POCKETWP",
+      "marketplaceID": "6780977787",
       "developerName": "Mario Buchholz",
       "subtitle": "A complete WordPress that runs fully offline",
       "category": "developer",
@@ -39,7 +39,7 @@
     {
       "name": "DualFile Commander",
       "bundleIdentifier": "de.mariobuchholz.DualFileCommander",
-      "marketplaceID": "REPLACE_WITH_APPSTORECONNECT_APPLE_ID_DUALFILE",
+      "marketplaceID": "6784957118",
       "developerName": "Mario Buchholz",
       "subtitle": "REPLACE_WITH_ONE_SENTENCE_SUBTITLE",
       "category": "utilities",
