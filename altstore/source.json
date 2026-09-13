@@ -26,8 +26,8 @@
           "version": "1.0",
           "buildVersion": "16",
           "date": "2026-08-24",
-          "downloadURL": "REPLACE_WITH_HOSTED_ADP_MANIFEST_URL",
-          "size": 0,
+          "downloadURL": "https://ios-apps.mbsb.eu/pocketwp/manifest.json",
+          "size": 103207014,
           "minOSVersion": "17.0"
         }
       ],
@@ -41,9 +41,9 @@
       "bundleIdentifier": "de.mariobuchholz.DualFileCommander",
       "marketplaceID": "6784957118",
       "developerName": "Mario Buchholz",
-      "subtitle": "REPLACE_WITH_ONE_SENTENCE_SUBTITLE",
+      "subtitle": "A dual-pane file manager for iPhone and iPad",
       "category": "utilities",
-      "localizedDescription": "REPLACE_WITH_FULL_DESCRIPTION",
+      "localizedDescription": "DualFile Commander is a classic two-pane file manager for iPhone and iPad. Browse two folders side by side and copy or move files between them in a single tap – the fast, no-nonsense workflow known from desktop file commanders, now native on iOS.\n\nFEATURES\n• Two independent panels, each with its own folder view\n• Copy or move files and folders from one panel to the other\n• Create new folders, rename and delete\n• Multi-select with \"Select all\" / \"Deselect\"\n• Clean, native iOS/iPadOS interface\n• Privacy first: no account, no ads, no tracking\n\nIdeal for organising your files quickly with a familiar dual-pane layout.",
       "iconURL": "https://mabu-089.github.io/pocketwp/altstore/dualfile/icon.png",
       "screenshots": [
         "https://mabu-089.github.io/pocketwp/altstore/dualfile/ss01.png",
@@ -56,10 +56,10 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "REPLACE_WITH_NOTARIZED_BUILD_NUMBER",
-          "date": "REPLACE_WITH_RELEASE_DATE_YYYY-MM-DD",
-          "downloadURL": "REPLACE_WITH_HOSTED_ADP_MANIFEST_URL",
-          "size": 0,
+          "buildVersion": "3",
+          "date": "2026-08-24",
+          "downloadURL": "https://ios-apps.mbsb.eu/dualfile/manifest.json",
+          "size": 288024,
           "minOSVersion": "17.0"
         }
       ],
